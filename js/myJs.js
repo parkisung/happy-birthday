@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì em thích anh vô điều kiện và anh men vlll",
   text10: "Anh biết mà ^^ Yêu Cô giáo 365 ngày",
   text11:
-    "Tối ngày 18/3 tắm rửa sạch sẽ anh chở đi chơi nha :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo bé heo",
+    "Tối ngày 18/3 anh chở đi chơi nha :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo bé heo",
   text12: "Okii lunn <3",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F%3Fnull";
+            window.location = "https://sharengay.com/crush/iloveu.html";
           },
         });
       }
